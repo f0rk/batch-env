@@ -23,6 +23,8 @@ $ swaj --profile production exec batch-env my_test_app sh -c 'echo "$ENVIRONMENT
 production
 ```
 
+See also [docker-run-env](https://github.com/f0rk/docker-run-env) for other possibilities.
+
 Install
 =======
 
